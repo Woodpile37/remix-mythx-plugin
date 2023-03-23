@@ -35,7 +35,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "5.1.0",
     "husky": "3.1.0",
-    "release-it": "14.8.0"
+    "release-it": "15.7.0"
   },
   "eslintConfig": {
     "extends": "react-app"
