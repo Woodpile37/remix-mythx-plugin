@@ -15,10 +15,10 @@
     "keccakjs": "0.2.3",
     "moment": "2.29.2",
     "mythxjs": "1.4.0",
-    "react": "16.8.6",
+    "react": "18.2.0",
     "react-bs-notifier": "5.0.0",
     "react-copy-to-clipboard": "5.0.1",
-    "react-dom": "16.8.6",
+    "react-dom": "18.2.0",
     "react-scripts": "4.0.3",
     "reactstrap": "9.1.6",
     "remix-lib": "0.4.30"
