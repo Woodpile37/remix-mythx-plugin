@@ -12,15 +12,10 @@
     "release": "release-it --no-npm.publish --github.release"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.19",
-    "@fortawesome/free-solid-svg-icons": "5.9.0",
-    "@fortawesome/react-fontawesome": "0.1.4",
-    "@remixproject/plugin": "0.3.17",
-    "@remixproject/plugin-iframe": "0.3.17",
     "keccakjs": "0.2.3",
     "moment": "2.29.2",
     "mythxjs": "1.4.0",
-    "react": "16.8.6",
+    "react": "18.2.0",
     "react-bs-notifier": "5.0.0",
     "react-copy-to-clipboard": "5.0.1",
     "react-dom": "16.8.6",
@@ -29,12 +24,12 @@
     "remix-lib": "0.4.30"
   },
   "devDependencies": {
-    "eslint": "7.28.0",
+    "eslint": "8.35.0",
     "eslint-config-standard": "16.0.3",
     "eslint-plugin-import": "2.23.4",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "5.1.0",
-    "husky": "3.1.0",
+    "husky": "8.0.3",
     "release-it": "14.8.0"
   },
   "eslintConfig": {
