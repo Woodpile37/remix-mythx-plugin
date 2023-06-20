@@ -26,11 +26,11 @@
   "devDependencies": {
     "eslint": "8.35.0",
     "eslint-config-standard": "17.0.0",
-    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-import": "2.25.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.1.1",
-    "husky": "8.0.3",
-    "release-it": "14.8.0"
+    "husky": "4.0.0",
+    "release-it": "15.1.1"
   },
   "eslintConfig": {
     "extends": "react-app"
