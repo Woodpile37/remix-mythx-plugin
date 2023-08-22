@@ -19,7 +19,7 @@
     "react-bs-notifier": "7.0.0",
     "react-copy-to-clipboard": "5.0.1",
     "react-dom": "18.2.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "9.1.6",
     "remix-lib": "0.4.30"
   },
