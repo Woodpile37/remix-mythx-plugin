@@ -20,7 +20,7 @@
     "react-copy-to-clipboard": "5.0.1",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.0",
-    "reactstrap": "9.1.6",
+    "reactstrap": "9.2.0",
     "remix-lib": "0.4.30"
   },
   "devDependencies": {
