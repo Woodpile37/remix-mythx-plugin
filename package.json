@@ -20,7 +20,7 @@
     "react-copy-to-clipboard": "5.1.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.0",
-    "reactstrap": "8.0.0",
+    "reactstrap": "9.1.6",
     "remix-lib": "0.4.30"
   },
   "devDependencies": {
@@ -30,7 +30,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.1.1",
     "husky": "8.0.3",
-    "release-it": "14.8.0"
+    "release-it": "15.5.1"
   },
   "eslintConfig": {
     "extends": "react-app"
