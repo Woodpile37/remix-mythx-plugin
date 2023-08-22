@@ -24,7 +24,7 @@
     "remix-lib": "0.4.30"
   },
   "devDependencies": {
-    "eslint": "8.36.0",
+    "eslint": "8.46.0",
     "eslint-config-standard": "16.0.3",
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-node": "11.1.0",
