@@ -20,17 +20,17 @@
     "react-copy-to-clipboard": "5.0.1",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.0",
-    "reactstrap": "8.0.0",
+    "reactstrap": "9.1.6",
     "remix-lib": "0.4.30"
   },
   "devDependencies": {
-    "eslint": "8.35.0",
-    "eslint-config-standard": "17.0.0",
-    "eslint-plugin-import": "2.23.4",
+    "eslint": "8.36.0",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "2.27.5",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "5.1.0",
+    "eslint-plugin-promise": "6.1.1",
     "husky": "8.0.3",
-    "release-it": "14.8.0"
+    "release-it": "15.5.1"
   },
   "eslintConfig": {
     "extends": "react-app"
